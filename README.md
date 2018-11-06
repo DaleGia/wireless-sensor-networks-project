@@ -10,5 +10,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 */
 
-This is a simple project that utilises Texas Instruments Z-Stack to send and receive requests and packets of data over a meshed network featuring a coordinator, router, and end device.
+This is a simple project that utilises Texas Instruments Z-Stack to send and receive requests and packets of data over a meshed network featuring a coordinator, router, and end device. It is for reference only.
 For a more detailed outlook on the project and the implementation of the project, please refer to the final report.
